@@ -5,9 +5,13 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **AI-Career_Navigator**
+- 🚀 Web Developer | React & Firebase Enthusiast
+- 🤝 Open to collaborations on meaningful tech projects
+- 🎯 Passionate about solving real-world problems with code
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ https://www.linkedin.com/in/parkash-kumar-119006279
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
